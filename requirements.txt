@@ -1,3 +1,5 @@
-pandas
-streamlit
-streamlit_calendar
+streamlit==1.32.0
+pandas==2.2.0
+requests==2.31.0
+openpyxl==3.1.2
+XlsxWriter==3.2.0
